@@ -1,6 +1,6 @@
 ## Hi, I'm Mani 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisharai01&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=manisharai01&count_private=true)
 
 
 
