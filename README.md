@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Mani 👋
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manisharai01&show_icons=true&count_private=true&include_all_commits=true&theme=default)
+
 
 <!--
 **manisharai01/manisharai01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
